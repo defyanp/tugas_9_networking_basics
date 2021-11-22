@@ -1,0 +1,15 @@
+
+1.Cara untuk membagi bandwith kepada user-user tertentu dengan cara memperioritaskan koneksi daripada user lain adalah dengan cara metode ?
+  Metode Priority
+
+2.Jitter adalah ?
+  Variasi dari kedatangan paket
+
+3.Pada QOS, suatu parameter yang menggambarkan suatu kondisi hilangnya paket pada saat sampai tujuan adalah pengertian dari ?
+  Packet Loss
+
+4.Ipv6 dengan alamat 0000:0000:0000:0000:0000:0000:0000:0001 apabila dipendekkan akan menjadi ?
+  0000::1
+
+5.Benar atau salah bahwa ipv6 memiliki panjang sebesar 126-bit ?
+  Salah, ipv6 memiliki panjang sebesar 128-bit
